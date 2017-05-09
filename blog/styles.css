@@ -72,3 +72,10 @@ a {
 a:hover {
   color: #F6A623;
 }
+
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
