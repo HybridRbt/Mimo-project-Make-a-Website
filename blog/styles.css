@@ -84,3 +84,7 @@ a:hover {
   height: 50px;
   vertical-align: middle;
 }
+
+.post-author span {
+  margin-left: 16px;
+}
