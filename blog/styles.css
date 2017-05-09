@@ -15,6 +15,9 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.1em
 }
+
+#header a:hover {
+  color: #222;
 }
 
 #header-title {
