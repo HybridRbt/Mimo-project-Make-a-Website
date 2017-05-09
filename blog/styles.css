@@ -88,3 +88,12 @@ a:hover {
 .post-author span {
   margin-left: 16px;
 }
+
+.post-date {
+  color: #D2D2D2;
+
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
